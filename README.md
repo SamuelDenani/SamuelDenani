@@ -1,20 +1,22 @@
-# Hello and welcome to my <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="26" />
+# Hello and welcome to my GitHub Profile 🤘
 
 I'm a Brazilian Front-End developer. Curious about everything, I try to learn daily about the whole web universe. 🚀
 
 I love to use JavaScript, TypeScript, ReactJS and NodeJS. But I'm always trying new things, like game development, arduino, infosec, UI and UX.
 
+Here I store my briliant ideas and my projects, you can use all code found here as you want.
+
 ## Find me around the web 🌐
 <a href="https://www.linkedin.com/in/samueldenani/" target="_blank" title="My Linkedin Profile">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin" width="36" />
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="106" height="32" />
 </a>
 
 <a href="" target="_blank" title="My Twitch Channel">
-    <img src="https://simpleicons.org/icons/twitch.svg" alt="Twitch" width="36" />
+    <img src="https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" width="106" height="32" />
 </a>
 
 <a href="" target="_blank" title="My Youtube Channel">
-    <img src="https://simpleicons.org/icons/youtube.svg" alt="Youtube" width="36" />
+    <img src="https://img.shields.io/badge/youtube%20-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" width="106" height="32" />
 </a>
 
 ## My Digital Garden 🌳
