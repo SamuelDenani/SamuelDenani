@@ -11,18 +11,12 @@ Here I store my briliant ideas and my projects, you can use all code found here 
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="106" height="32" />
 </a>
 
-<a href="" target="_blank" title="My Twitch Channel">
+<a href="https://twitch.tv/SamuelDenani" target="_blank" title="My Twitch Channel">
     <img src="https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" width="106" height="32" />
 </a>
 
-<a href="" target="_blank" title="My Youtube Channel">
-    <img src="https://img.shields.io/badge/youtube%20-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" width="106" height="32" />
-</a>
-
 ## My Digital Garden 🌳
-You can watch me learning online on Twitch (coming soon) and watch VODs and tutorials on my Youtube (also coming soon). And see my posts on Linkedin. I will create content both in english and portuguese, this way I can practice and mantain my english skills while I learn and pass my knowledge.
-
-> I intend to start creating content for both Youtube and Twitch very soon and I want to do so as a way to document my evolution while helping others.
+I intend to create content for Twitch, LinkedIn and maybe Youtube buy I am figuring out some things and trying to build stronger habits before starting to make sure I can handle the new routine. For now you can follow me on Twitch and LinkedIn and once I start creating content, you'll be warned.
 
 ## My GitHub Stats 📈
 ![My Stats](https://github-readme-stats.vercel.app/api?username=samueldenani&theme=radical&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_rank=true)
